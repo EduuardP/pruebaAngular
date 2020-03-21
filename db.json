@@ -1,12 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "prueba": [
+    { "id": 1, "title": "Angular" },
+    { "id": 2, "title": "NodeJS" },
+    { "id": 3, "title": "MongoDB" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "Framework de Javascript", "prueba": 1 },
+    { "id": 2, "body": "Base de datos no relacional", "prueba": 3 }
   ],
   "profile": {
     "name": "EduuardP"
